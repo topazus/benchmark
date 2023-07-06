@@ -181,6 +181,7 @@ bool IsColorTerminal() {
       "foot",
       "foot-extra",
       "wezterm",
+      "contour",
   };
 
   const char* const term = getenv("TERM");
